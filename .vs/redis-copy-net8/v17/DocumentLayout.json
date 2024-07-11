@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyWorkPlace\\FY24_MC_Repo\\githubsource\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE81D29F-6D93-462E-8182-25CF28A1C379}|redis-copy-net8.csproj|c:\\myworkplace\\fy24_mc_repo\\githubsource\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EE81D29F-6D93-462E-8182-25CF28A1C379}|redis-copy-net8.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE81D29F-6D93-462E-8182-25CF28A1C379}|redis-copy-net8.csproj|c:\\myworkplace\\fy24_mc_repo\\githubsource\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE81D29F-6D93-462E-8182-25CF28A1C379}|redis-copy-net8.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE81D29F-6D93-462E-8182-25CF28A1C379}|redis-copy-net8.csproj|c:\\myworkplace\\fy24_mc_repo\\githubsource\\redis-copy-net8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EE81D29F-6D93-462E-8182-25CF28A1C379}|redis-copy-net8.csproj|solutionrelative:redis-copy-net8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettings.json",
+              "DocumentMoniker": "C:\\MyWorkPlace\\FY24_MC_Repo\\githubsource\\AppSettings.json",
+              "RelativeDocumentMoniker": "AppSettings.json",
+              "ToolTip": "C:\\MyWorkPlace\\FY24_MC_Repo\\githubsource\\AppSettings.json",
+              "RelativeToolTip": "AppSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T06:46:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\MyWorkPlace\\FY24_MC_Repo\\githubsource\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\MyWorkPlace\\FY24_MC_Repo\\githubsource\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-11T06:46:18.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "redis-copy-net8",
+              "DocumentMoniker": "C:\\MyWorkPlace\\FY24_MC_Repo\\githubsource\\redis-copy-net8.csproj",
+              "RelativeDocumentMoniker": "redis-copy-net8.csproj",
+              "ToolTip": "C:\\MyWorkPlace\\FY24_MC_Repo\\githubsource\\redis-copy-net8.csproj",
+              "RelativeToolTip": "redis-copy-net8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T06:46:07.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
